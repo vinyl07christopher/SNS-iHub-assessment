@@ -10,7 +10,7 @@ SNS-iHub-assessment task
 ![Login Page](screenshots/login-page.png)
 
 ### User List
-![User List](assets/screenshots/user-list.png)
+![User List](screenshots/user-list.png)
 
 ### Logout Page
 ![Logout Page](screenshots/logout-page.png)
