@@ -19,6 +19,6 @@ SNS-iHub-assessment task
 VITE_APP_API_URL=http://localhost:4000/api
  
 ### BACKEND ENV Variables
-!PORT=4000
-!MONGO_URI = mongodb://localhost:27017/sns-ihub
-!JWT_SECRET_KEY = "cXC9G9pW8hrt0HihzJ7AHLcJ7yMhLi"
+PORT=4000<br>
+MONGO_URI = mongodb://localhost:27017/sns-ihub<br>
+JWT_SECRET_KEY = "cXC9G9pW8hrt0HihzJ7AHLcJ7yMhLi"
