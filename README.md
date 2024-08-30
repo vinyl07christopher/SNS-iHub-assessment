@@ -1,7 +1,7 @@
 # SNS-iHub-assessment
 SNS-iHub-assessment task
 
-## Project Screenshots
+## Project Screenshots & ENV variables
 
 ### Signup Page
 ![Signup Page](screenshots/signup-page.png)
@@ -15,3 +15,10 @@ SNS-iHub-assessment task
 ### Logout Page
 ![Logout Page](screenshots/logout-page.png)
  
+### FRONTEND ENV Variables
+VITE_APP_API_URL=http://localhost:4000/api
+ 
+### BACKEND ENV Variables
+PORT=4000
+MONGO_URI = mongodb://localhost:27017/sns-ihub
+JWT_SECRET_KEY = "cXC9G9pW8hrt0HihzJ7AHLcJ7yMhLi"
